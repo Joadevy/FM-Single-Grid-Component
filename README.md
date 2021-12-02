@@ -1,6 +1,6 @@
 # Frontend Mentor - Single price grid component
 
-Live site URL: https://joadevy.github.io/Single-price-grid-component/
+Live site URL: https://joadevy.github.io/FM-Single-Grid-Component/
 
 ## Welcome! 👋
 
